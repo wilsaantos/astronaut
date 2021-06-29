@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+}
+
+i.edit {
+    color: blue;
+    opacity: 50%;
+}
+
+i.delete {
+    color: red;
+    margin-left: 15px;
+    opacity: 50%;
+}
+
+i:hover {
+    opacity: 100%;
+}

@@ -1,0 +1,16 @@
+.navbar {
+    background-color: rgba(128, 128, 128, 0);
+    height: 40px;
+}
+
+.navbar i {
+    color: grey;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+button {
+    margin-left: 50px;
+}
